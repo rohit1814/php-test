@@ -1,4 +1,4 @@
-<?php echo "<?xml version="1.0" ?>" ?>
+<?php echo '<?xml version="1.0" ?>' ?>
 <rss version="2.0">
 <channel>
   <title>Ajax and XUL</title>
